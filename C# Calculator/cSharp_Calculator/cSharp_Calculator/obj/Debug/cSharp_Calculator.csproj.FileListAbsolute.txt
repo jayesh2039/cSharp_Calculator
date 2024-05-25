@@ -1,0 +1,12 @@
+D:\C#_programs\cSharp_Calculator\cSharp_Calculator\bin\Debug\cSharp_Calculator.exe.config
+D:\C#_programs\cSharp_Calculator\cSharp_Calculator\bin\Debug\cSharp_Calculator.exe
+D:\C#_programs\cSharp_Calculator\cSharp_Calculator\bin\Debug\cSharp_Calculator.pdb
+D:\C#_programs\cSharp_Calculator\cSharp_Calculator\obj\Debug\cSharp_Calculator.csprojResolveAssemblyReference.cache
+D:\C#_programs\cSharp_Calculator\cSharp_Calculator\obj\Debug\cSharp_Calculator.Form1.resources
+D:\C#_programs\cSharp_Calculator\cSharp_Calculator\obj\Debug\cSharp_Calculator.Properties.Resources.resources
+D:\C#_programs\cSharp_Calculator\cSharp_Calculator\obj\Debug\cSharp_Calculator.csproj.GenerateResource.Cache
+D:\C#_programs\cSharp_Calculator\cSharp_Calculator\obj\Debug\cSharp_Calculator.exe
+D:\C#_programs\cSharp_Calculator\cSharp_Calculator\obj\Debug\cSharp_Calculator.pdb
+C:\Users\Jayesh\Desktop\C# Calculator\cSharp_Calculator\cSharp_Calculator\bin\Debug\cSharp_Calculator.exe.config
+C:\Users\Jayesh\Desktop\C# Calculator\cSharp_Calculator\cSharp_Calculator\obj\Debug\cSharp_Calculator.exe
+C:\Users\Jayesh\Desktop\C# Calculator\cSharp_Calculator\cSharp_Calculator\obj\Debug\cSharp_Calculator.pdb
